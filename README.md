@@ -13,18 +13,17 @@ Projeto realizado por alunos do curso de UX/UI Basics Experience & Prototype, of
 ## Conteúdo
 
 - 🚀 [Ponto de partida](#Ponto de partida)
-
 - :open_file_folder: [Briefing](#Briefing)
 - 💬 [User Experience](#User Experience)
   - 📢 [Pesquisa de público-alvo](#Pesquisa de público-alvo)
-  - :bar_chart: [Análise das personas](#Análise das personas)
-  - :family: [Proto-personas](#Proto-personas)
-- :art: [User Interface](#User Interface)
-  - :mag_right: [Benchmark e Análise de semelhantes](#Benchmark e Análise de semelhantes)
-  - :wrench: [Usabilidades](#Usabilidades)
-  - :black_square_button: [Wireframes](#Wireframes)
-  - :iphone:  [Protótipo de alta-fidelidade](#Protótipo de alta-fidelidade)
-  - :gem: [Apresentação](#Apresentação)
+  - :bar_chart:[Análise das personas](#Análise das personas)
+  - :family:[Proto-personas](#Proto-personas)
+- :art:[User Interface](#User Interface)
+  - :mag_right:[Benchmark e Análise de semelhantes](#Benchmark e Análise de semelhantes)
+  - :wrench:[Usabilidades](#Usabilidades)
+  - :black_square_button:[Wireframes](#Wireframes)
+  - :iphone:[Protótipo de alta-fidelidade](#Protótipo de alta-fidelidade)
+  - :gem:[Apresentação](#Apresentação)
 - 👥 [Equipe](#Equipe)
 
 
@@ -60,7 +59,7 @@ Um app para plataforma Android que ofereça opções personalizadas de busca par
 - Ter um lugar para compartilhamento de bolsas de estudos
 
 
-![rainstorm](C:\Users\Garcia\Desktop\Projeto Studalli\Imagens\rainstorm.png)
+![rainstorm](https://github.com/garrrcia/studali-app/blob/main/Imagens/rainstorm.png?raw=true)
 
 
 
@@ -72,7 +71,7 @@ Um app para plataforma Android que ofereça opções personalizadas de busca par
 
 Nesta etapa, formulamos perguntas para confirmar a demanda para a resolução do problema e definir o público-alvo. Devido à pandemia, o principal meio de disseminação do formulário foi por WhatsApp. 
 
-![QUESTIONARIO Studali](C:\Users\Garcia\Desktop\Projeto Studalli\Imagens\QUESTIONARIO Studali.png)
+![QUESTIONARIO Studali](https://github.com/garrrcia/studali-app/blob/main/Imagens/QUESTIONARIO%20Studali.png?raw=true)
 
 
 
@@ -80,13 +79,13 @@ Nesta etapa, formulamos perguntas para confirmar a demanda para a resolução do
 
 Com os dados de pesquisa, chegamos na seguinte análise das personas:
 
-![grafico studali](C:\Users\Garcia\Desktop\Projeto Studalli\Imagens\grafico studali.png)
+![grafico studali](https://github.com/garrrcia/studali-app/blob/main/Imagens/grafico%20studali.png?raw=true)
 
 #### Proto-personas
 
 Cada um integrante montou 2 proto-personas e o modelo utilizado foi o do site https://br.hubspot.com/make-my-persona. Abaixo temos uma delas:
 
-![Persona_Miguel_Anjos_Projeto_Studali](C:\Users\Garcia\Desktop\Projeto Studalli\Arquivos\Persona_Miguel_Anjos_Projeto_Studali.png)
+![Persona_Miguel_Anjos_Projeto_Studali](https://github.com/garrrcia/studali-app/blob/main/Arquivos/Persona_Miguel_Anjos_Projeto_Studali.png?raw=true)
 
 
 
@@ -96,7 +95,7 @@ Cada um integrante montou 2 proto-personas e o modelo utilizado foi o do site ht
 
 Cada membro buscou aplicativos que teriam propostas semelhantes a que queríamos desenvolver e analisamos diversos pontos importantes e com os dados coletados e montamos uma tabela para visualizá-los mais facilmente.
 
-![image-20201204171643875](C:\Users\Garcia\Desktop\Projeto Studalli\Imagens\image-20201204171643875.png)
+![image-20201204171643875](https://github.com/garrrcia/studali-app/blob/main/Imagens/image-20201204171643875.png?raw=true)
 
 
 
@@ -104,7 +103,7 @@ Cada membro buscou aplicativos que teriam propostas semelhantes a que queríamos
 
 O Squad definiu as principais usabilidades de acordo com a inportância de representar a ideia principal do app no pitch de apresentação.
 
-![Untitled](C:\Users\Garcia\Desktop\Projeto Studalli\Imagens\Untitled.jpg)
+![Untitled](https://github.com/garrrcia/studali-app/blob/main/Imagens/Untitled.jpg?raw=true)
 
 
 
@@ -112,7 +111,7 @@ O Squad definiu as principais usabilidades de acordo com a inportância de repre
 
 Criamos wireframes das principais telas no site https://app.moqups.com
 
-![Wireframes_Projeto Studali_2](C:\Users\Garcia\Desktop\Projeto Studalli\Arquivos\Wireframes_Projeto Studali_2.png)
+![Wireframes_Projeto Studali_2](https://github.com/garrrcia/studali-app/blob/main/Arquivos/Wireframes_Projeto%20Studali_2.png?raw=true)
 
 
 
@@ -120,7 +119,7 @@ Criamos wireframes das principais telas no site https://app.moqups.com
 
 Por fim, desenvolvemos o protótipo de alta fidelidade no Figma. Como a solução final seria um app para Android, utilizamos como base o Material Design do Google.
 
-![rascunhos figma studali](C:\Users\Garcia\Desktop\Projeto Studalli\Imagens\rascunhos figma studali.png)
+![rascunhos figma studali](https://github.com/garrrcia/studali-app/blob/main/Imagens/rascunhos%20figma%20studali.png?raw=true)
 
 
 
@@ -130,7 +129,7 @@ Apresentamos o pitch do projeto, explicando as ideias e o protótipo final. Abai
 
 Link do Figma: https://www.figma.com/proto/n3E58umCVGiHsj62inAy9u/STUDALI?node-id=1%3A13&scaling=min-zoom
 
-<video src="C:\Users\Garcia\Desktop\Projeto Studalli\Arquivos\Apresentação Studali.mp4"></video>
+<video src="https://youtu.be/YMnNHMS1XTk"></video>
 
 
 
