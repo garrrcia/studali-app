@@ -12,7 +12,7 @@ Projeto realizado por alunos do curso de UX/UI Basics Experience & Prototype, of
 
 ## Conteúdo
 
-- 🚀 [Ponto de partida](#Ponto de partida)
+- 🚀[Ponto de partida](#Ponto de partida)
 - :open_file_folder: [Briefing](#Briefing)
 - 💬 [User Experience](#User Experience)
   - 📢 [Pesquisa de público-alvo](#Pesquisa de público-alvo)
