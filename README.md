@@ -121,7 +121,6 @@ Por fim, desenvolvemos o protótipo de alta fidelidade no Figma. Como a soluçã
 
 ![rascunhos figma studali](https://github.com/garrrcia/studali-app/blob/main/Imagens/rascunhos%20figma%20studali.png?raw=true)
 
-[![Capa Vídeo YouTube](https://github.com/garrrcia/studali-app/blob/main/Imagens/imagemVideoStudali.png?raw=true)](https://youtu.be/YMnNHMS1XTk "Apresentação Studali")
 
 #### Apresentação
 
@@ -129,8 +128,7 @@ Apresentamos o pitch do projeto, explicando as ideias e o protótipo final. Abai
 
 Link do Figma: https://www.figma.com/proto/n3E58umCVGiHsj62inAy9u/STUDALI?node-id=1%3A13&scaling=min-zoom
 
-<video src="https://youtu.be/YMnNHMS1XTk"></video>
-
+[![Capa Vídeo YouTube](https://github.com/garrrcia/studali-app/blob/main/Imagens/imagemVideoStudali.png?raw=true)](https://youtu.be/YMnNHMS1XTk "Apresentação Studali")
 
 
 ## Equipe
