@@ -1,1 +1,0 @@
-# studali-app
