@@ -1,6 +1,6 @@
 
 
-![](C:\Users\Garcia\Pictures\Header Studali.png)
+![](https://github.com/garrrcia/studali-app/blob/main/Imagens/Header%20Studali.png?raw=true)
 
 O Studali é um app para ajudar estudantes de diferentes níveis de formação educacional à encontrar vagas de bolsas de estudo no exterior em um só lugar, com agilidade, segurança e assertividade.
 
