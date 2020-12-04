@@ -121,6 +121,7 @@ Por fim, desenvolvemos o protótipo de alta fidelidade no Figma. Como a soluçã
 
 ![rascunhos figma studali](https://github.com/garrrcia/studali-app/blob/main/Imagens/rascunhos%20figma%20studali.png?raw=true)
 
+![](https://youtu.be/YMnNHMS1XTk "Apresentação Studali")
 
 
 #### Apresentação
